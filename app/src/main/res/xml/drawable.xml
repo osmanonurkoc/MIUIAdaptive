@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <category title="MIUI" />
+    <item drawable="mi_barcode_reader" />
+    <item drawable="mi_browser" />
+    <item drawable="mi_calculator" />
+    <item drawable="mi_calendar" />
+    <item drawable="mi_camera" />
+    <item drawable="mi_clock" />
+    <item drawable="mi_compass" />
+    <item drawable="mi_contacts" />
+    <item drawable="mi_dialer" />
+    <item drawable="mi_downloads" />
+    <item drawable="mi_drop" />
+    <item drawable="mi_feedback" />
+    <item drawable="mi_files" />
+    <item drawable="mi_gallery" />
+    <item drawable="mi_health" />
+    <item drawable="mi_mail" />
+    <item drawable="mi_messages" />
+    <item drawable="mi_music" />
+    <item drawable="mi_music2" />
+    <item drawable="mi_notes" />
+    <item drawable="mi_radio" />
+    <item drawable="mi_remote_control" />
+    <item drawable="mi_screen_recorder" />
+    <item drawable="mi_security_center" />
+    <item drawable="mi_settings" />
+    <item drawable="mi_sim_toolkit" />
+    <item drawable="mi_sound_recorder" />
+    <item drawable="mi_themes" />
+    <item drawable="mi_torch" />
+    <item drawable="mi_videos" />
+    <item drawable="mi_weather" />
+</resources>
