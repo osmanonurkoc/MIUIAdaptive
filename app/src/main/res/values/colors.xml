@@ -1,33 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="mi_barcode_reader_background">#4E5259</color>
-    <color name="mi_browser_background">#2CA8EF</color>
-    <color name="mi_calculator_background">#FD8C3B</color>
-    <color name="mi_calendar_background">#22A6A2</color>
-    <color name="mi_camera_background">#FFFFFF</color>
-    <color name="mi_compass_background">#00A7BB</color>
-    <color name="mi_contacts_background">#25A2DD</color>
-    <color name="mi_downloads_background">#11B877</color>
-    <color name="mi_drop_background">#00A6F4</color>
-    <color name="mi_feedback_background">#F37249</color>
-    <color name="mi_files_background">#F4A720</color>
-    <color name="mi_gallery_background">#12BFEB</color>
-    <color name="mi_mail_background">#E3E3E3</color>
-    <color name="mi_messages_background">#FFF6DC</color>
-    <color name="mi_music_background">#F15960</color>
-    <color name="mi_music2_background">#E66161</color>
-    <color name="mi_notes_background">#F5C67D</color>
-    <color name="mi_radio_background">#F16B61</color>
-    <color name="mi_remote_control_background">#3E84D3</color>
-    <color name="mi_screen_recorder_background">#F06630</color>
-    <color name="mi_security_center_background">#18C8A1</color>
-    <color name="mi_settings_background">#547791</color>
-    <color name="mi_sim_toolkit_background">#F9963F</color>
-    <color name="mi_sound_recorder_background">#FCFEFF</color>
-    <color name="mi_themes_background">#FF7F6E</color>
-    <color name="mi_torch_background">#6A87B5</color>
-    <color name="mi_videos_background">#F0F0F0</color>
-    <color name="mi_weather_background">#F5F9FE</color>
-    <color name="mi_dialer_background">#18B264</color>
     <color name="ic_launcher_icon_pack_background">#FF6700</color>
 </resources>
